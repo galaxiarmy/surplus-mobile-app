@@ -34,4 +34,19 @@ when you login you must fill this username and password for succesfull login
 
 ```http://www.7timer.info/doc.php?lang=en```
 
+### `Android Smartphone use for testing`
+
+1. Real Device
+   
+   ```
+      Samsung Galaxy A03s (Android 11)
+   ```
+   
+2. Emulator
+    ```
+      Nexus 5 (Android 9)
+      Pixel 4a (Android 11)
+    ```
+
+
 
