@@ -21,7 +21,7 @@ React Version : 17.0.2
 
 ```https://reqres.in/```
 
-when you login you must fill this username and password for succesfull login
+when login you must fill this username and password for succesfull login
 
 ```
 {
