@@ -5,9 +5,9 @@ This project use React Native framework, only ruuning on Android
 
 Node Version : >= 14
 
-React-Native Version : "0.71.1"
+React-Native Version : "0.68.0"
 
-React Version : 18.2.0
+React Version : 17.0.2
 
 ### `How to running on Android`
 
@@ -15,5 +15,23 @@ React Version : 18.2.0
 
 -npm run android
 
-### `API use in project`
+### `API use in this project`
+
+*API Login*
+
+```https://reqres.in/```
+
+when you login you must fill this username and password for succesfull login
+
+```
+{
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+}
+```
+
+*API Weather*
+
+```http://www.7timer.info/doc.php?lang=en```
+
 
