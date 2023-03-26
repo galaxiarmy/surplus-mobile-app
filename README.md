@@ -17,7 +17,7 @@ React Version : 17.0.2
 
 ### `API use in this project`
 
-*API Login*
+1. **API Login**
 
 ```https://reqres.in/```
 
@@ -30,7 +30,7 @@ when you login you must fill this username and password for succesfull login
 }
 ```
 
-*API Weather*
+2. **API Weather**
 
 ```http://www.7timer.info/doc.php?lang=en```
 
