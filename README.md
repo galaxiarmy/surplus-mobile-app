@@ -1,7 +1,7 @@
 # surplus-mobile-app
 Technical Test Surplus Indonesia as Mobile Developer
 
-This project use React Native framework, only ruuning on Android
+This project use React Native framework, only running on Android
 
 Node Version : >= 14
 
